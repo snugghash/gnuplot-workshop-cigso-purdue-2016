@@ -1,15 +1,17 @@
 If these don't work, internet seach is your friend. Untested by me personally.
 
 ## GNU/Linux
-### Ubuntu
+### Ubuntu and Arch linux
 Pre-installed. 
 Command-line tool: `gnuplot`
 ### Other *nix
-Please search your package repository or build from source.
+It is usually pre-installed. 
+Check by running `gnuplot` in a terminal. 
+If not, please search your package repository, third-party prebuilts, or build from source. 
 
 ## MacOSX
 Easiest with homebrew: `brew install gnuplot`.
-Of course, you could build always from source.
+Of course, you could always build from source.
 
 ## Windows
 ### 10
