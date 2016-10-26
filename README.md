@@ -1,4 +1,7 @@
-If these don't work, internet seach is your friend. Untested by me personally.
+This repository serves as a resource for the workshop on gnuplot at Purdue, in 2016, organized by CIGSO
+
+#Installation instructions
+If these don't work, internet seach is your friend. 
 
 ## GNU/Linux
 ### Ubuntu
