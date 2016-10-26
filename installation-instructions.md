@@ -1,21 +1,20 @@
 If these don't work, internet seach is your friend. Untested by me personally.
 
 ## GNU/Linux
-### Ubuntu and Arch linux
+### Ubuntu
 Pre-installed. 
 Command-line tool: `gnuplot`
 ### Other *nix
-It is usually pre-installed. 
-Check by running `gnuplot` in a terminal. 
-If not, please search your package repository, third-party prebuilts, or build from source. 
+Please search your package repository or build from source.
 
 ## MacOSX
 Easiest with homebrew: `brew install gnuplot`.
-Of course, you could always build from source.
+Of course, you could build always from source.
 
 ## Windows
 ### 10
 Windows binaries built by Tatsuro Matsuoka: [cygwin](http://www.tatsuromatsuoka.com/gnuplot/Eng/cygbin/) and [MinGW](http://www.tatsuromatsuoka.com/gnuplot/Eng/winbin/).
+The MinGW version is the most plug and play, from a vanilla windows 10 installation.
 
 ### Other windows
 Windows binaries built by Tatsuro Matsuoka: [cygwin](http://www.tatsuromatsuoka.com/gnuplot/Eng/cygbin/) and [MinGW](http://www.tatsuromatsuoka.com/gnuplot/Eng/winbin/).
